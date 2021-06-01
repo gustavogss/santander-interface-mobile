@@ -2,7 +2,7 @@
 
 Interface do aplicativo do Banco Santander durante a semana de Bootcamp da Digital Innovation One 
 
-### Teconologia e Ferramentas utilizadas
+### Tecnologia e Ferramentas utilizadas
 - VsCode
 - Android Studio
 - Kotlin
