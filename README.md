@@ -1,13 +1,13 @@
-# 💻 Projeto
+# Projeto :rocket:
 
 Interface do aplicativo do Banco Santander durante a semana de Bootcamp da Digital Innovation One 
 
-### 🤖 Tecnologia e Ferramentas utilizadas
+### Tecnologia e Ferramentas utilizadas 🤖
 - VsCode
 - Android Studio
 - Kotlin
 
-### Como utilizar 🏃
+### Como utilizar 🔌
 - Clone o repositório
 - Instale o [Android Studio](https://developer.android.com/studio)
 - Abra o repositório dentro do Android Studio
